@@ -60,7 +60,7 @@ Certified **eJPT** and **ICCA**.
 Led VAPT across Karnataka e-Governance portals; LLM/AI security testing on an in-house chatbot; SAST integration into Secure SDLC; org-wide secure-development training.
 
 **Astra Microwave Products Limited** — *Security Analyst, Network Pentesting & IAM*
-`Jan 2023 – May 2025`
+`Mar 2023 – May 2025`
 Internal network pentests across a defence electronics environment; vulnerability assessments on classified-project infrastructure; hardened posture with RBAC and MFA, cutting unauthorised-access incidents by 30%.
 
 ---
