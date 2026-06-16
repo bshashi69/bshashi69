@@ -65,7 +65,7 @@ Internal network pentests across a defence electronics environment; vulnerabilit
 
 ---
 
-## Certifications
+## Certifications & Training
 
 - **eLearnSecurity Junior Penetration Tester (eJPT)** — INE Security
 - **INE Certified Cloud Associate (ICCA)** — INE
